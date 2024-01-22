@@ -51,5 +51,7 @@ z=x+y
 print(z)
 ```
 **block quotes**
+
 **INLINE**
+
 `print("hello world"`
