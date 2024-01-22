@@ -17,8 +17,8 @@
       
 **ordered list**
 
-1.one
-2.Two
-    1.Hello
-    2.Two
+1. one
+2. Two
+    1. Hello
+    2. Two
 
